@@ -1,5 +1,5 @@
 ### Hello there 👋
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pozitronik&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=pozitronik&show_icons=true&count_private=true&theme=tokyonight">
 
 ### Feel free to contribute to my repos! There are some of my favorites:
 - [cloud.mail.ru support for Total Commander](https://github.com/pozitronik/CloudMailRu). Pure Delphi, no bullshit.
